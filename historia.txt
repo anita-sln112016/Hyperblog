@@ -1,5 +1,5 @@
-Este es la primera claze practika de git
+Este es la primera clase practica de git
 
-Aprendida en la plataforma PLatsi, tiene 20 videos
+Aprendida en la plataforma Platzi, tiene 22 videos
 
 y el maestro se llamma Freddy Vega
