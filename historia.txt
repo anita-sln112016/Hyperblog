@@ -1,4 +1,4 @@
-Este es la primera clase practica de git
+﻿Este es la primera clase practica de git
 
 Aprendida en la plataforma Platzi, tiene 22 videos
 
@@ -10,4 +10,4 @@ Tengo hambre
 
 revive, 
 
-HOLAS, como estás?
+Hola, soy nueva en el equipo anta-sln
